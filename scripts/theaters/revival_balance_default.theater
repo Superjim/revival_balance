@@ -1018,6 +1018,7 @@
 				"weapon"				"weapon_no79"
 				"weapon"				"weapon_no69"
 				"weapon_upgrade"		"default_sling"
+				"weapon_upgrade"		"default_bayonet"
 				"weapon_upgrade"		"magazine_speedloader_webley"
 				"gear"					"gear_radio_commonwealth"
 			}
@@ -1038,6 +1039,7 @@
 				"weapon_upgrade"
 				{
 					"default_sling"					"1"
+					"default_bayonet"				"1"
 					"magazine_speedloader_webley"	"1"
 					"magazine_extended_thompson_50rd" 	"6"
 					"magazine_extended_thompson_30rd" 	"3"
