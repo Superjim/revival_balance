@@ -4,7 +4,7 @@
 "#base" "default_weapon_german.theater"
 "#base" "default_weapon_commonwealth.theater"
 "#base" "default_weapon_upgrades.theater"
-"#base"	"default_firesupport.theater"
+"#base"	"revival_balance_firesupport.theater"
 "#base"	"default_unlocks_americans.theater"
 "#base"	"default_unlocks_axis.theater"
 "#base"	"default_unlocks_commonwealth.theater"
@@ -1329,6 +1329,7 @@
 				
 				"weapon_upgrade"		"default_sling"
 				"weapon_upgrade"		"optic_scope_4x"
+				"weapon_upgrade"		"default_bayonet"
 				
 				"plantable"				"ammo_pouch_axis"
 			}
@@ -1350,6 +1351,7 @@
 				{
 					"default_sling"				"1"
 					"optic_scope_4x"			"5"
+					"default_bayonet"			"1"
 				}
 				
 				"gear"
