@@ -90,7 +90,7 @@
 			{
 				"ResponseModifiers"		"smoke_artillery:1"
 				"SupportType"			"artillery"	
-				"Cooldown"				"68"
+				"Cooldown"				"45"
 				"MinRoundTime"			"30"
 				"MinRoundTimeAttacker"	"0"
 	
@@ -130,7 +130,7 @@
 			{
 				"ResponseModifiers"		"smoke_artillery:1"
 				"SupportType"			"artillery"
-				"Cooldown"				"68"
+				"Cooldown"				"45"
 				"MinRoundTime"			"30"
 				"MinRoundTimeAttacker"	"0"
 				
