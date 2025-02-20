@@ -1847,7 +1847,7 @@
 					"weapon_sw1917"				"2"					
 					"weapon_mk2"				"1"
 					"weapon_tnt"				"4"
-					"weapon_bazooka"			"5"
+					"weapon_bazooka"			"6"
 				}
 				"weapon_upgrade"
 				{
@@ -2006,7 +2006,7 @@
 					"weapon_splintering"	"2"
 					"weapon_panzerfaust"	"4"
 					"weapon_sprengbuchse"	"4"
-					"weapon_panzerschreck"	"5"
+					"weapon_panzerschreck"	"6"
 					"weapon_flamethrower_eintoss46_german" "4"
 				}
 
