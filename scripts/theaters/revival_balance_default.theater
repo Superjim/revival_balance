@@ -10,6 +10,7 @@
 "#base"	"default_unlocks_commonwealth.theater"
 "#base"	"default_unlocks_weapons.theater"
 "#base"	"doiRevival_coop_classes.theater"
+"#base" "revival_balance_plantables.theater"
 
 "theater"
 {
@@ -185,11 +186,12 @@
 			{
 				"weapon"				"weapon_m1garand"
 				"weapon"				"weapon_m1carbine"
-				
-				"?has_m1para_access"
-				{
-					"weapon"			"weapon_m1paratrooper"
-				}
+				"weapon"				"weapon_m1paratrooper"
+
+				//"?has_m1para_access"
+				//{
+				//	"weapon"			"weapon_m1paratrooper"
+				//}
 				
 				"weapon"				"weapon_thompson_m1a1"
 				"weapon"				"weapon_m1911"
@@ -1305,6 +1307,7 @@
 				{
 					"kit"					"0"
 					"backpack"				"0"
+					"pouches"				"1"
 				}
 			}
 			
@@ -1338,7 +1341,6 @@
 				
 				"weapon_upgrade"		"default_sling"
 				"weapon_upgrade"		"optic_scope_4x"
-				"weapon_upgrade"		"default_bayonet"
 				
 				"plantable"				"ammo_pouch_axis"
 			}
@@ -1360,7 +1362,6 @@
 				{
 					"default_sling"				"1"
 					"optic_scope_4x"			"5"
-					"default_bayonet"			"2"
 				}
 				
 				"gear"
@@ -1839,6 +1840,8 @@
 			{
 				"weapon"				"weapon_springfield"
 				"weapon"				"weapon_m3greasegun"
+				"weapon"				"weapon_m1carbine"
+				"weapon"				"weapon_m1paratrooper"
 				"weapon"				"weapon_m1911"
 				"weapon"				"weapon_sw1917"				
 				"weapon"				"weapon_mk2"
@@ -1856,6 +1859,8 @@
 				{
 					"weapon_springfield"		"1"
 					"weapon_m3greasegun"		"5"
+					"weapon_m1carbine"			"4"
+					"weapon_m1paratrooper"		"4"
 					"weapon_m1911"				"2"
 					"weapon_sw1917"				"2"					
 					"weapon_mk2"				"1"
