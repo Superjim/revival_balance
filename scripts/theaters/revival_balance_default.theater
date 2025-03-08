@@ -364,6 +364,7 @@
 				"weapon_upgrade"		"barrel_greased_bolt"
 				"weapon_upgrade"		"default_sling"
 				"weapon_upgrade"		"magazine_stripper_clips"
+				"weapon_upgrade"		"default_bayonet"
 			}
 			"cost_modifiers"
 			{
@@ -384,6 +385,7 @@
 					"default_sling"						"1"
 					"magazine_stripper_clips"			"1"
 					"barrel_greased_bolt"			"2"
+					"default_bayonet"				"2"
 				}
 
 				"gear"
@@ -595,6 +597,7 @@
 				"weapon_upgrade"		"default_sling"
 				"weapon_upgrade"		"magazine_stripper_clips"
 				"weapon_upgrade"		"barrel_greased_bolt"
+				"weapon_upgrade"		"default_bayonet"
 				"gear"					"gear_radio_german"
 			}
 			"cost_modifiers"
@@ -616,6 +619,7 @@
 					"magazine_stripper_clips"		"1"
 					"barrel_greased_bolt"			"2"
 					"default_sling"					"1"
+					"default_bayonet"				"2"
 				}
 
 				"gear"
